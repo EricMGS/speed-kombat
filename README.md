@@ -25,4 +25,4 @@ Desafie sua própria coordenação motora e velocidade de reação com esse jogo
 ###### Level 6
 
 > Quote
-> - bla bla bla bla bla
+> bla bla bla bla bla
