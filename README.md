@@ -9,8 +9,8 @@ Desafie sua própria coordenação motora e velocidade de reação com esse jogo
 2. Dois   
 3. Três   
 
-- Tó   
-* pi    
+- Tópico   
+* top    
   - Subtópico   
   * top   
   
