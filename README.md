@@ -30,4 +30,4 @@ OPEN THE FILE TO LEARN
 > Quote    
 > bla bla bla bla bla
 
-'include <inline code block>'
+'try: inline code block'
