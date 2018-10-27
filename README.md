@@ -35,3 +35,10 @@ OPEN THE FILE TO LEARN
 ```
 if (triple backticks)
   multiple lines code block
+```
+
+```python
+if (triple backticks and the language)
+  HIGHLIGHT
+```
+
