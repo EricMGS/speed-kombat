@@ -30,4 +30,8 @@ OPEN THE FILE TO LEARN
 > Quote    
 > bla bla bla bla bla
 
-' try: inline code block '
+` try: inline code block `
+
+```
+if (triple backticks)
+  multiple lines code block
