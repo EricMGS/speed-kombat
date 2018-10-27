@@ -10,7 +10,7 @@ Desafie sua própria coordenação motora e velocidade de reação com esse jogo
 3. Três   
 
 - Tó   
-* pi   
-- co   
-  - Subtópico top   
+* pi    
+  - Subtópico   
+  * top   
   
