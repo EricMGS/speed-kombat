@@ -6,7 +6,9 @@ OPEN THE FILE TO LEARN
 
 **bold**   
 *italic*    
+~~strikethrough~~
 [link to Google](https://google.com)   
+https://google.com This is an automatic link
 
 1. One    
 2. Two    
@@ -55,7 +57,7 @@ emojiss
 :dog:   
 
 
-eat | for who?
+food | for who?
 --- | ---------
 hotdog | for me
 chocolate | for me
