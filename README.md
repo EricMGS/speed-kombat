@@ -64,3 +64,7 @@ chocolate | for me
 anything | for me
 
 
+# Flavored Markdown
+Note that some features of GitHub Flavored Markdown are only available in the descriptions and comments of Issues and Pull Requests. These include @mentions as well as references to SHA-1 hashes, Issues, and Pull Requests. Task Lists are also available in Gist comments and in Gist Markdown files.
+
+@mention - mention
