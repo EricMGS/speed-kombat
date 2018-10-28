@@ -42,4 +42,4 @@ if (triple backticks and the language)
   HIGHLIGHT
 ```
 
-@Eric - I'm a reference
+@EricMGS - I'm a reference
