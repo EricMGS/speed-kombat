@@ -42,6 +42,6 @@ if (triple backticks and the language)
   HIGHLIGHT
 ```
 
-[x] - Task1
-[ ] - Task2
+- [x] - Task1
+- [ ] - Task2
 
