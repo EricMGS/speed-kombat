@@ -54,5 +54,11 @@ emojiss
 :boom:   
 :dog:   
 
-line   
-----
+
+eat | for who?
+--- | ---------
+hotdog | for me
+chocolate | for me
+anything | for me
+
+
