@@ -38,6 +38,7 @@ if (triple backticks)
 ```
 
 ```python
+
 if (triple backticks and the language)
   HIGHLIGHT
 ```
@@ -53,3 +54,5 @@ emojiss
 :boom:   
 :dog:   
 
+line   
+-
