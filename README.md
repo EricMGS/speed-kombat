@@ -13,29 +13,19 @@ Seems easy? So **I challenge you to try**.
 Each time you collect the black square your speed is doubled, making the game more and more difficult.  
 The more you play the greater the challenge for your motor coordination ... and for your patience. :laughing:     
 
----  
-
 ## Getting Started
-
 ### Prerequisites
-
-Dependências necessárias para o projeto funcionar  
+Currently the software works only on linux systems and requires the following dependencies.  
 
 **Python 3**  
 ```
 sudo apt install python3
 ```
+**Tkinter**  
+```
+sudo apt install python3-tk
+```
+
 
 ### Instalação
 
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
