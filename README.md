@@ -8,7 +8,7 @@ SpeedKombat is a simple game of squares.
 You need to control the movements of the blue square to catch the black square 20 times.  
 Seems easy? So **I challenge you to try**.  
 Each time you collect the black square your speed is doubled, making the game more and more difficult.  
-The more you play the greater the challenge for your motor coordination ... and your patience. :laughing:     
+The more you play the greater the challenge for your motor coordination ... and for your patience. :laughing:     
   
 ![printscreen](https://github.com/EricMGS/SpeedKombat/blob/master/image.png)  
 
