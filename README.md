@@ -39,7 +39,7 @@ git clone https://github.com/EricMGS/SpeedKombat
 ### Running  
 Execute the file SpeedKombat.py with python 3.
 ```sh
-python3 SpeedKombat.py
+python3 speed-kombat.py
 ```
 
 ## Built with
