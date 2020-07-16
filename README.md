@@ -18,13 +18,20 @@ The more you play the greater the challenge for your motor coordination ... and 
 Currently the software works only on linux systems and requires the following dependencies.  
 
 _Python 3_  
-```
+```sh
 sudo apt install python3
 ```
 _Tkinter_  
-```
+```sh
 sudo apt install python3-tk
 ```
 
 ### Installing
-
+Download and extract the [zip file](https://github.com/EricMGS/SpeedKombat/archive/master.zip)  
+  
+_or_  
+  
+Clone the repository  
+```sh
+git clone https://github.com/EricMGS/SpeedKombat  
+```
