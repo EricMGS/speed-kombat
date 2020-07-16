@@ -2,7 +2,8 @@
 
 > Um simples jogo de quadrados... porém nada fácil.  
 
-![Tipo de projeto](https://img.shields.io/badge/Tipo%20de%20Projeto-Acadêmico-blue)
+![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)  
+![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 SpeedKombat é um jogo de quadrados onde você controla os movimentos do quadrado azul e deve pegar o quadrado preto 20 vezes.  
 Parece fácil? Então te desafio a tentar.  
