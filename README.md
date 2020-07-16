@@ -47,4 +47,4 @@ python3 SpeedKombat.py
 - [Tkinter](https://wiki.python.org/moin/TkInter) - Graphical User Interface     
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md]() file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/EricMGS/SpeedKombat/blob/master/LICENSE) file for details
