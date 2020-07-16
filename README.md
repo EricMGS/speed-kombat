@@ -35,3 +35,16 @@ Clone the repository
 ```sh
 git clone https://github.com/EricMGS/SpeedKombat  
 ```
+
+### Running  
+Execute the file SpeedKombat.py with python 3.
+```sh
+python3 SpeedKombat.py
+```
+
+## Built with
+- [Python](https://www.python.org/)  - Programming Language used  
+- [Tkinter](https://wiki.python.org/moin/TkInter) - Graphical User Interface     
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md]() file for details
