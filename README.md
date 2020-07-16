@@ -17,15 +17,14 @@ The more you play the greater the challenge for your motor coordination ... and 
 ### Prerequisites
 Currently the software works only on linux systems and requires the following dependencies.  
 
-**Python 3**  
+_Python 3_  
 ```
 sudo apt install python3
 ```
-**Tkinter**  
+_Tkinter_  
 ```
 sudo apt install python3-tk
 ```
 
-
-### Instalação
+### Installing
 
