@@ -4,7 +4,7 @@
 
 ![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)
 
-![printscreen](https://github.com/EricMGS/SpeedKombat/blob/master/image.png)  
+![gif](https://github.com/EricMGS/SpeedKombat/blob/master/animation.gif)  
 
 ## About
 SpeedKombat is a simple game of squares.   
