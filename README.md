@@ -1,6 +1,6 @@
 # SpeedKombat
 
-> Um simples jogo de quadrados... porém nada fácil.  
+> A simple square game ... but it's not easy
 
 ![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)
 
