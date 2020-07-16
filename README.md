@@ -1,4 +1,4 @@
-# SpeedKombat
+# Speed Kombat
 
 > A simple game of squares ... but it's not easy
 
