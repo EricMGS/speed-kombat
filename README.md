@@ -1,13 +1,14 @@
 # SpeedKombat
 
-> A simple square game ... but it's not easy
+> A simple game of squares ... but it's not easy
 
 ![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)
 
-SpeedKombat é um jogo de quadrados onde você controla os movimentos do quadrado azul e deve pegar o quadrado preto 20 vezes.  
-Parece fácil? Então te desafio a tentar.  
-Cada vez que você coleta o quadrado preto sua velocidade é dobrada, tornando o jogo cada vez mais difícil.  
-Quanto mais você jogar maior será o desafio para sua cordenação motora... e para sua paciência. :laughing:     
+SpeedKombat is a simple game of squares.   
+You need to control the movements of the blue square to catch the black square 20 times.  
+Seems easy? So **I challenge you to try**.  
+Each time you collect the black square your speed is doubled, making the game more and more difficult.  
+The more you play the greater the challenge for your motor coordination ... and your patience. :laughing:     
   
 ![printscreen](https://github.com/EricMGS/SpeedKombat/blob/master/image.png)  
 
