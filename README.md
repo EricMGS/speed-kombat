@@ -1,6 +1,6 @@
 # SpeedKombat
 
-> Um simples jogo de quadrados
+> Um simples jogo de quadrados... porém nada fácil.  
 
 ![Tipo de projeto](https://img.shields.io/badge/Tipo%20de%20Projeto-Acadêmico-blue)
 
