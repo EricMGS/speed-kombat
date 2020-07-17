@@ -25,17 +25,17 @@ sudo apt install python3-tk
 ```
 
 ### Installing
-Download and extract the [zip file](https://github.com/EricMGS/SpeedKombat/archive/master.zip)  
+Download and extract the [zip file](https://github.com/EricMGS/speed-kombat/archive/master.zip)  
   
 _or_  
   
 Clone the repository  
 ```sh
-git clone https://github.com/EricMGS/SpeedKombat  
+git clone https://github.com/EricMGS/speed-kombat  
 ```
 
 ### Running  
-Execute the file SpeedKombat.py with python 3.
+Execute the file _speed-kombat.py_ with python 3.
 ```sh
 python3 speed-kombat.py
 ```
@@ -45,4 +45,4 @@ python3 speed-kombat.py
 - [Tkinter](https://wiki.python.org/moin/TkInter) - Graphical User Interface     
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/EricMGS/SpeedKombat/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/EricMGS/speed-kombat/blob/master/LICENSE) file for details
