@@ -15,8 +15,6 @@ The more you play the greater the challenge for your motor coordination ... and 
 
 ## Getting Started
 ### Prerequisites
-Currently the software works only on linux systems and requires the following dependencies.  
-
 _Python 3_  
 ```sh
 sudo apt install python3
